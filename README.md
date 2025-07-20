@@ -41,7 +41,7 @@
 - **동기화 예외**: 데이터 동기화 실패, 중복 데이터 처리
 - **전역 예외 처리**: 통합된 예외 응답 형식 제공
 
-## 🛠 기술 스택
+## 기술 스택
 
 - **Java 21**
 - **Spring Boot 3.4.8-SNAPSHOT**
@@ -90,6 +90,9 @@ src/TechAssignmentProject/
 ### 사전 요구사항
 - Java 21 이상
 - Gradle 7.0 이상
+
+### 실행 방법
+- TechAssignmentProjectApplication.java 파일을 실행
 
 ### 실행 후 웹 접속
 - 메인 페이지: http://localhost:8080
